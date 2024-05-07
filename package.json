@@ -1545,7 +1545,7 @@
     },
     "dependencies": {
         "@iarna/toml": "^2.2.5",
-        "@vscode/extension-telemetry": "^0.8.4",
+        "@vscode/extension-telemetry": "^0.9.6",
         "@vscode/jupyter-lsp-middleware": "^0.2.50",
         "arch": "^2.1.0",
         "fs-extra": "^10.0.1",
