@@ -1568,7 +1568,7 @@
         "uint64be": "^3.0.0",
         "unicode": "^14.0.0",
         "untildify": "^4.0.0",
-        "vscode-debugprotocol": "^1.28.0",
+        "vscode-debugprotocol": "^1.51.0",
         "vscode-jsonrpc": "^8.2.0",
         "vscode-languageclient": "^9.0.1",
         "vscode-languageserver-protocol": "^3.17.5",
