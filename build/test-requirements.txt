@@ -19,3 +19,4 @@ torch-tb-profiler
 
 # extension build tests
 freezegun
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
